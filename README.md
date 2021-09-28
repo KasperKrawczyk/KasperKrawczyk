@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @KasperKrawczyk
-- 👀 I’m year 2 computer science student at Swansea University
+- 👀 I’m year 2 Software Engineering student at Swansea University
+- I'm interested in data visualisation and machine learning
+- ... but I'm never too far away from some simple ✨ algorithm and data structures ✨ fun : D
+- In this repository you will find a few of my projects, as well as a growing stash of solved Greenbook / Leetcode problems
 
 
 <!---

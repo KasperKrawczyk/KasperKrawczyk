@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KasperKrawczyk
-- 👀 I’m year 2 Software Engineering student at Swansea University
+- 👀 I’m a year 2 Software Engineering student at Swansea University
 - Coming to computer science from a cognitive linguistics background 🧠
 - I'm interested in data visualisation and machine learning
 - ... but I'm never too far away from some simple ✨ algorithm and data structures ✨ fun : D
